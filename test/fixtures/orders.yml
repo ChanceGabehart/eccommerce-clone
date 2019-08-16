@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  decimal: 
+  sales_tax: 9.99
+  grand_total: 9.99
+  customer_id: 1
+
+two:
+  decimal: 
+  sales_tax: 9.99
+  grand_total: 9.99
+  customer_id: 1
